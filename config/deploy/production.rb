@@ -62,4 +62,4 @@
 
    set :branch, "ch09"
    # server "example.com", user: "deploy", roles: %w{app db web}, my_property: :my_value
-   server "116.196.69.140", user: "deploy", roles: %w{app db web}, my_property: :my_value
+   server "120.78.54.237", user: "deploy", roles: %w{app db web}, my_property: :my_value
